@@ -65,11 +65,11 @@ Minors: Computer Science, English
 
 ### Things I'm great at (>3 years experience)
 
-[React](https://reactjs.org/), [JavaScript](https://www.javascript.com)
+[React](https://reactjs.org/), [JavaScript](https://www.javascript.com), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Things I'm pretty good at (>1 year experience)
 
-[Typescript](https://www.typescriptlang.org/), [MobX](https://mobx.js.org/)
+[Typescript](https://www.typescriptlang.org/), [Sass](https://sass-lang.com), [MobX](https://mobx.js.org/)
 
 ### Things I've used (<1 year experience)
 
