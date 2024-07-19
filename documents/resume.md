@@ -77,7 +77,7 @@ Minors: Computer Science, English
 
 ### Things I like (Personal time, no professional experience)
 
- [NodeJS](https://nodejs.org), [React Native](https://reactnative.dev/), [Redux](https://redux.js.org), [Java Spring](https://spring.io), [Django](https://www.djangoproject.com), [MongoDB](https://www.mongodb.com), 
+ [NodeJS](https://nodejs.org), [React Native](https://reactnative.dev/), [Redux](https://redux.js.org), [Java Spring](https://spring.io), [Django](https://www.djangoproject.com), [MongoDB](https://www.mongodb.com)
 
  ## Contact
 
