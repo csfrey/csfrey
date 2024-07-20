@@ -79,7 +79,7 @@ Minors: Computer Science, English
 
  [NodeJS](https://nodejs.org), [React Native](https://reactnative.dev/), [Redux](https://redux.js.org), [Java Spring](https://spring.io), [Django](https://www.djangoproject.com), [MongoDB](https://www.mongodb.com)
 
- ## Contact
+## Contact
 
 - Email: contact@charliefrey.io
 - Website: [charliefrey.io](https://charliefrey.io)
