@@ -18,7 +18,7 @@ Role: Training AI models (LLMs) by verifying outputs including text, images, aud
 
 _June 2022 - July 2024_
 
-Navigated a career break after a layoff into a challenging time in the industry. Focused on personal development, mental health, and gender transition while working part-time. Actively staying updated with industry trends and continuing professional development.
+Navigated a career break after a layoff into a challenging time in the industry. Focused on personal development, mental health, and gender transition while working part-time in retail. Actively staying updated with industry trends and continuing professional development.
 
 ### GenUI - [genui.com](https://genui.com)
 
