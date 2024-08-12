@@ -6,9 +6,17 @@ contact@charliefrey.io
 
 ## Employment
 
+### DataAnnotation
+
+_July 2024 - now_
+
+Title: Freelance Data Annotation Specialist
+
+Role: Training AI models (LLMs) by verifying outputs including text, images, audio, and code.
+
 ### Career Break
 
-_June 2022 - now_
+_June 2022 - July 2024_
 
 Navigated a career break after a layoff into a challenging time in the industry. Focused on personal development, mental health, and gender transition while working part-time. Actively staying updated with industry trends and continuing professional development.
 
