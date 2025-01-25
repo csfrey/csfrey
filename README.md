@@ -1,5 +1,5 @@
-# Hi I'm Charlie!
-I'm a Software Engineer and Technical Lead with over five years of industry experience. I'm currently available for personal tutoring and consulting engagements
+# Hi, I'm Charlie!
+I'm a Software Engineer and Technical Lead with over five years of industry experience. I'm currently on assignment at Meta working as a Data Labeling Analyst and QA in the GenAI space.
 
  ## Contact
 
